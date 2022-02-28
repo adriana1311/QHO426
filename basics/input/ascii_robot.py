@@ -1,0 +1,6 @@
+print(" ##########")
+print(" #        #")
+e = input()
+print(" #        #")
+m = input()
+print(" ##########")
