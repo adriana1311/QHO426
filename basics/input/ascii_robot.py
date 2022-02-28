@@ -1,5 +1,6 @@
+print("Which symbol you would like to use? :)")
+s = input()
 print(" ##########")
-e = input()
-print(" # {} {} #" .format(e))
+print(" # ", s,s,"  #")
 print(" #  ----  #")
 print(" ##########")
