@@ -1,6 +1,5 @@
 print(" ##########")
-print(" #        #")
 e = input()
-print(" #        #")
-m = input()
+print(" # {} {} #" .format(e))
+print(" #  ----  #")
 print(" ##########")
